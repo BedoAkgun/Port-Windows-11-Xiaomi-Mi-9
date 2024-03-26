@@ -114,7 +114,7 @@ adb reboot recovery
 
 * Artık cihazınız Windows'u kurmaya başlayacaktır. Uzun sürmesi normaldir, lütfen sabırla bekleyin. Sonra yeniden başlayıp kurulum sonrası menüsüne (OOBE) gelecektir
 
-
-## Hazırsınız!
+### Android'e geçin
+> Çift sistem kurulumuna devam etmek için Android'e geçin
 
 ### [Son Adım: Çift Sistem Kurulumu](dualboot-tr.md)
